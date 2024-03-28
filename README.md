@@ -1,4 +1,4 @@
-<h1 align="center">Hi / Hola 👋, soy Luca De Veintemilla</h1>
+<h1 align="center">Hi 👋 Hola, soy Luca De Veintemilla</h1>
 <h3 align="center">A passionate developer /  Un apasionado desarrollador del Ecuador</h3>
 
 - 🔭 I’m currently working on / Actualmente estoy trabajando en **un Chatbot**
